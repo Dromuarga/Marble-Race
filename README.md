@@ -47,5 +47,5 @@ Marble race game is a simple 3D game, where a player could control the marble th
 * **Keybord interface**: Shows the arrow/WASD keys and spacebar. The input key is highlighted when the player is pressing the corresponding key.
 
 ## This project was built with:
-* Blender
+* React Three Fiber (R3F)
 * Three.js
